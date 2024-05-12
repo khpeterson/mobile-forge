@@ -1,0 +1,6 @@
+package:
+  name: awscrt
+  version: 0.20.9
+
+patches:
+  - mobile.patch
